@@ -1,0 +1,30 @@
+
+
+.animal {
+  float: left;
+  padding: 10px;
+}
+
+form {
+  float: left;
+  width: 30%;
+  padding: 20px;
+}
+
+
+
+
+button,
+input[type="submit"] {
+  padding: 5px 20px;
+  margin: 0 10px 10px 0;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  background: blue;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px #bbb;
+}
+
+
